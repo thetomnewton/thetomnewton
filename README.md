@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a full-stack developer specialising in building web apps with Laravel, Vue and Tailwind.
+
+I've been the lead developer at @CashCalc since 2013. We developed it from an in-house spreadsheet into the market leader of Cashflow Modelling tools in the UK financial advice industry.
+
+I'm also working on Swft Scheduling in my spare time, which is a really simple and customisable way for people to schedule meetings and appointments with each other.
+
+I'm a self-taught programmer who is constantly trying to learn and improve, and with my articles I hope to give something back to the community I've learned so much from.
+
 <!--
 **thetomnewton/thetomnewton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
