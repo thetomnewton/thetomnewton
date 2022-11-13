@@ -1,10 +1,10 @@
 ### Hi 👋
 
-I'm a full-stack developer specialising in building web apps.
+I'm a full-stack developer specialising in building web applications.
 
 I was the lead developer / technical lead at @CashCalc for over 9 years. We developed it from an in-house spreadsheet into the market leader of Cashflow Modelling tools in the UK financial advice industry.
 
-I'm a self-taught programmer who is constantly trying to learn and improve.
+I'm also working on [Pavrel](www.pavrel.com), an app for software teams to track and collaborate on ideas.
 
 Give me a follow on Twitter to keep up with what I'm working on: [@tomjnewton](https://twitter.com/tomjnewton)
 
