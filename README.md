@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a full-stack developer specialising in building web apps with Laravel, Vue and Tailwind.
+I'm a full-stack developer specialising in building web apps.
 
-I've been the lead developer at @CashCalc since 2013. We developed it from an in-house spreadsheet into the market leader of Cashflow Modelling tools in the UK financial advice industry.
+I was the lead developer / technical lead at @CashCalc for over 9 years. We developed it from an in-house spreadsheet into the market leader of Cashflow Modelling tools in the UK financial advice industry.
 
 I'm a self-taught programmer who is constantly trying to learn and improve.
 
