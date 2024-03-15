@@ -4,7 +4,7 @@ I'm a full-stack developer specialising in building web applications.
 
 I was a founding engineer at a UK fintech SaaS where I worked for almost 10 years. We developed it from an in-house spreadsheet into a market leading tool in the UK financial advice industry, and was eventually acquired in 2021.
 
-Some of my favourite tools and libraries are React, Next.js, Vue.js, Laravel, Tailwind CSS, MySQL, Postgres, AWS, Docker, and Kubernetes.
+Some of my favourite tools and libraries are React, Next.js, TypeScript, Vue.js, Nuxt, Laravel, Tailwind CSS, MySQL, PostgreSQL, AWS, and Docker.
 
 Follow me on Twitter to keep up with what I'm working on: [@tomjnewton](https://twitter.com/tomjnewton)
 
