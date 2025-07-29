@@ -6,6 +6,8 @@ I was a founding engineer at a UK fintech SaaS where I worked for almost 10 year
 
 Some of my favourite tools and libraries are TypeScript, Vue.js, React, Vite, Tailwind CSS, MySQL, PostgreSQL, Laravel, AWS, and Docker.
 
+I have worked as a lead developer, technical lead, lead frontend developer, and CTO in my previous roles.
+
 Follow me on Twitter to keep up with what I'm working on: [@tomjnewton](https://twitter.com/tomjnewton)
 
 <!--
